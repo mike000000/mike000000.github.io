@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xbmc" name="Arabic ADDONS" version="1.0.0" provider-name="NB">
+    <extension point="xbmc.addon.repository" name="Arabic ADDONS">
+        <info compressed="false">https://raw.githubusercontent.com/mike000000/repository.xbmc/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/mike000000/repository.xbmc/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mike000000/repository.xbmc/master/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Install mike000000's Addons</summary>
+        <description>Download and install addons by Mike000000</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+
+
+
+
