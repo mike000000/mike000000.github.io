@@ -85,7 +85,6 @@ https://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
 https://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae"tvg-logo="https://i.imgur.com/CiA3plN.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-
 #EXTINF:-1 tvg-id="MBC3.ae"tvg-logo="https://i.imgur.com/PVt8OPN.png"tvg-shift=""group-title="Kids":http-referrer="":http-user-agent="",MBC 3 KSA (1080p)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae"tvg-logo="https://i.imgur.com/BcXASJp.png"tvg-shift=""group-title="General":http-referrer="":http-user-agent="",MBC 4 (1080p)
