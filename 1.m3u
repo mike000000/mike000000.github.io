@@ -7,7 +7,7 @@ https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlhayatTV.eg"tvg-logo="https://i.imgur.com/bl9ie9u.png"group-title="Egypt",Alhayat TV (720p)
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Horrya", Al Horrya
+#EXTINF:-1 tvg-id="Al Horrya",Al Horrya
 https://5b622f07944df.streamlock.net/alhorreya.tv/alhorreya.smil/chunklist_w251170495_b143000_slar.m3u8
 #EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us"tvg-logo="https://i.imgur.com/kpuO8m7.png"group-title="United States",Alkarma TV Youth & English (1080p) [Not 24/7]
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
@@ -119,3 +119,15 @@ https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zee Aflam",zee_aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png",TRT ARABIYA
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA KSA
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5sJ9vSJ/rotanakhalijia.png",ROTANA KHALIJA
+https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNm4jw9/rotanaclip.png",ROTANA CLIP
+https://oppomu.serv00.net/klip.php?channel=rclip&.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg",ROTANA COMEDY
+https://oppomu.serv00.net/comedy.php?channel=rcomedy&.m3u8
